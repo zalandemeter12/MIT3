@@ -176,9 +176,9 @@ graph
 			LabelGraphics
 			[
 				text	"
-	name = white
+	name = red
 	static = false
-	id = example wh...
+	id = example re...
 	direction = ::in
 	"
 				fontSize	14
@@ -250,7 +250,7 @@ graph
 			LabelGraphics
 			[
 				text	"
-	name = black
+	name = blue
 	static = false
 	id = example bl...
 	direction = ::in
@@ -324,9 +324,9 @@ graph
 			LabelGraphics
 			[
 				text	"
-	name = whiteTime
+	name = redTime
 	static = false
-	id = example wh...
+	id = example re...
 	const = false
 	readonly = false
 	"
@@ -505,7 +505,7 @@ graph
 			LabelGraphics
 			[
 				text	"
-	name = blackTime
+	name = blueTime
 	static = false
 	id = example bl...
 	const = false
@@ -1020,7 +1020,7 @@ graph
 				text	"
 	specification = null
 	namespace = null
-	name = Black
+	name = Blue
 	documentation = 
 	orthogonal = false
 	simple = true
@@ -1075,7 +1075,7 @@ graph
 			id	30
 			graphics
 			[
-				w	177.10000000000002
+				w	169.4
 				h	54
 				type	"rectangle"
 				fill	"#FFFFFF"
@@ -1096,7 +1096,7 @@ graph
 			LabelGraphics
 			[
 				text	"
-	specification = black
+	specification = blue
 	documentation = 
 	"
 				fontSize	14
@@ -1601,7 +1601,7 @@ graph
 				text	"
 	specification = 
 	namespace = null
-	name = White
+	name = Red
 	documentation = 
 	orthogonal = false
 	simple = true
@@ -1656,7 +1656,7 @@ graph
 			id	46
 			graphics
 			[
-				w	177.10000000000002
+				w	161.70000000000002
 				h	54
 				type	"rectangle"
 				fill	"#FFFFFF"
@@ -1677,7 +1677,7 @@ graph
 			LabelGraphics
 			[
 				text	"
-	specification = white
+	specification = red
 	documentation = 
 	"
 				fontSize	14
